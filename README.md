@@ -11,6 +11,11 @@ If you would like to compile yourself, read on.
 
 #### Linux
 
+One Liner for Ubuntu - Debian dependancies
+
+sudo apt update && sudo apt install build-essential cmake pkg-config libboost-all-dev libssl-dev libzmq3-dev libunbound-dev libsodium-dev libunwind8-dev liblzma-dev libreadline6-dev libldns-dev libexpat1-dev doxygen graphviz libpgm-dev
+
+
 ##### Prerequisites
 
 You will need the following packages: boost, cmake (3.8 or higher), make, and git.
