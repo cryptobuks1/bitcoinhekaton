@@ -1,4 +1,4 @@
-![image](https://www.bitcoinhekaton.com/wp-content/uploads/2018/12/bitcoin-hekaton-logo-e1545023111678.png)
+![BitcoinHekaton Logo](https://www.bitcoinhekaton.com/wp-content/uploads/2018/12/bitcoin-hekaton-logo-e1545023111678.png)
 
 
 ### Installing
