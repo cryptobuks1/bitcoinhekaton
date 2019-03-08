@@ -1,4 +1,4 @@
-![image](https://useithubuse34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+![image](https://www.bitcoinhekaton.com/wp-content/uploads/2018/12/bitcoin-hekaton-logo-e1545023111678.png)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/turtlecoin?branch=master&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
