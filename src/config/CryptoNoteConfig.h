@@ -263,5 +263,6 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 const char* const SEED_NODES[] = {
  "54.183.84.20:19812", //California Seed
   "13.112.231.16:19812", //Tokyo Seed
+  "47.52.192.96:19812",  //Hong Kong Seed
 };
 } // CryptoNote
